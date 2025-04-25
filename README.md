@@ -73,7 +73,7 @@ plt.tight_layout()
 plt.show()
 
 ```
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/1565a921-be20-40a6-b28b-cbe23435b809)
 
 ### Grafico de puntos comparativos
 
@@ -91,13 +91,13 @@ plt.title("Tienda vs Mes")
 plt.legend()
 plt.grid(True)
 ```
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/274a9fb8-5056-4850-88a5-a6bee3bf5c17)
 
 ## Tablero
 
 Se creo un tablero para una mejor visualizacion de todo el analisi y que se tenga una mejor comprencion de todas los graficos generados
 
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/4a37a3c2-1b17-4d1c-898a-7ed6f8df461d)
 
 
 
